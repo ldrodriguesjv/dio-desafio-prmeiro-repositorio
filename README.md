@@ -1,2 +1,2 @@
-# dio-desafio-prmeiro-repositorio
-Desafio de projeto sobre GIT/GITHUB Bootcamp Santander
+# dio-desafio-primeiro-repositorio
+# Desafio de projeto sobre GIT/GITHUB Bootcamp Santander
